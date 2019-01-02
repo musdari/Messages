@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "352836541155",
+    "firebase_url": "https://polinemachat.firebaseio.com",
+    "project_id": "polinemachat",
+    "storage_bucket": "polinemachat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352836541155:android:49cc0ddd2443d135",
+        "android_client_info": {
+          "package_name": "com.example.quangviet.veechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352836541155-koun3tg5kv21pbotu913tpg6nidjjlgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quangviet.veechat",
+            "certificate_hash": "6fc332d6e5a35af1ab88c9e1a2d5007246ed4f23"
+          }
+        },
+        {
+          "client_id": "352836541155-nh1mkr6sdq7r0l0e5vfbsdsb1jde2i2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOSCd_C9P10YHecfEv2e2-RKblwilWlTk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352836541155-nh1mkr6sdq7r0l0e5vfbsdsb1jde2i2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
